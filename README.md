@@ -22,10 +22,12 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 2.OR gate The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation. Y= A+B
 
 ## Procedure:
+```
  1.Use module projname(input,output) to start the Verilog programmming.
  2.Assign inputs and outputs using the word input and output respectively.
  3.Use defined keywords like wire,assign and required logic gates to represent the boolean expression. 
  4.Use each output to represent one for F1 and the other for F2. 5.End the verilog program using keyword endmodule.
+```
 ## LOGIC DIAGRAM:
 ![33](https://github.com/JeevaGowtham-S/Experiment--02-Implementation-of-combinational-logic-/assets/118042624/09ff1f1e-833a-4530-9148-77f0ff065212)
 
@@ -33,8 +35,8 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 ## Program:
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: JEEVAGOWTHAM S
-RegisterNumber:  212222230053
+Developed by: JAYAKRISHNAN L B L
+RegisterNumber:  212222230052
 
 ```
 module exp2(A,B,C,D,F1);
