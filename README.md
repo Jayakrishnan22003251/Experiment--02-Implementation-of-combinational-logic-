@@ -31,6 +31,9 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 ## LOGIC DIAGRAM:
 ![33](https://github.com/JeevaGowtham-S/Experiment--02-Implementation-of-combinational-logic-/assets/118042624/09ff1f1e-833a-4530-9148-77f0ff065212)
 
+## TRUTH TABLE
+![image](https://github.com/Jayakrishnan22003251/Experiment--02-Implementation-of-combinational-logic-/assets/120232371/5383382e-ccb3-4eb1-afba-9ac8c7a72d92)
+
 
 ## Program:
 /*
